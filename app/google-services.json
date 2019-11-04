@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802376867383",
+    "firebase_url": "https://proyectowatsap.firebaseio.com",
+    "project_id": "proyectowatsap",
+    "storage_bucket": "proyectowatsap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802376867383:android:029fc5bd059b1e295829b2",
+        "android_client_info": {
+          "package_name": "com.example.proyectowatsap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802376867383-3ic3a18o5ek7mog716okorqqda797jp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectowatsap",
+            "certificate_hash": "1ed21a2fa66ade10e83b3c806ce7e6341947f161"
+          }
+        },
+        {
+          "client_id": "802376867383-c5g6tmdc88l18o3nopjf8ji68ek794js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr4oidkYP8n-yyk0Zmf5-LLBdZ4ySMMS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802376867383-c5g6tmdc88l18o3nopjf8ji68ek794js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
